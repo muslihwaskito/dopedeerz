@@ -2627,7 +2627,7 @@ figcaption {
   }
 
   .roadmap-content-wrap.q4-22 {
-    top: 63px;
+    top: 0px;
   }
 
   .roadmap-content-wrap.q4-22.last-list {
@@ -4517,7 +4517,7 @@ figcaption {
   }
 
   .roadmap-content-wrap.q4-22 {
-    top: 125px;
+    top: 35px;
     width: 130px;
     margin-top: 31px;
     margin-right: 0px;
