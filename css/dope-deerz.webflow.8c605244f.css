@@ -282,7 +282,7 @@ figcaption {
   z-index: 1000;
   width: 100%;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  background-color: #fff;
+  background-color: #d5b555;
   opacity: 0.95;
   outline-color: #222;
   outline-offset: 0px;
@@ -442,7 +442,7 @@ figcaption {
 .section.ribbon {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #d5b555;
+  background-color: #ffffff;
 }
 
 .section.hero {
@@ -2432,7 +2432,7 @@ figcaption {
 }
 
 .body {
-  background-color: #00331e;
+  background-color: #180033;
 }
 
 .list-2 {
@@ -2860,7 +2860,7 @@ figcaption {
   .hero-section.hero {
     height: 90vh;
     border-bottom-color: transparent;
-    background-color: #00331e;
+    background-color: #180033;
   }
 
   .team-section {
